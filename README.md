@@ -14,7 +14,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Getting Started ###
 
-* git clone https://github.com/ap-prasanthap/myCodeTask.git
+* git clone https://github.com/ap-prasanthap/undostres.git
 * Navigate to `master`
 * For running, click and run the bash file `automation.sh`
 
