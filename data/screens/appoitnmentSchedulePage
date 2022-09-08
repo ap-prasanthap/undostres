@@ -1,0 +1,3 @@
+"MANAGE_APPOINTMENTS_BTN": "//*[@id='appointmentschedulingui-manageAppointments-app']",
+"MANAGE_APPOINTMENT_TITLE": "//h2[contains(text(),'Manage Appointments')]",
+"PATIENT_APPOINTMENTS_TITLE": "//h2[contains(text(),'Appointment Requests')]",

@@ -1,0 +1,4 @@
+"LOGGED_IN_USER_INFO": "//h4[contains(text(),'Logged in as Super User (admin) at Inpatient Ward.')]",
+"REGISTER_PATIENT_BTN": "//*[@id='referenceapplication-registrationapp-registerPatient-homepageLink-referenceapplication-registrationapp-registerPatient-homepageLink-extension']",
+"FIND_PATIENT_RECORD_BTN": "//*[@id ='coreapps-activeVisitsHomepageLink-coreapps-activeVisitsHomepageLink-extension']",
+"APPOINTMENT_SCHEDULE_BTN": "//*[@id = 'appointmentschedulingui-homeAppLink-appointmentschedulingui-homeAppLink-extension']",

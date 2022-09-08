@@ -1,0 +1,5 @@
+"USERNAME_TXT_FIELD": "//input[@id='username']",
+"PASSWORD_TXT_FIELD": "//input[@id='password']",
+"LOGIN_BTN": "//input[@value='Log In']",
+"LOCATION": "//*[@id='Inpatient Ward']",
+"LOGOUT_BTN": "//*[contains(text(),'Logout')]",

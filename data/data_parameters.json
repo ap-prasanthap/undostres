@@ -1,0 +1,19 @@
+{
+	"server": "demo.openmrs.org/openmrs/",
+	"username": "Admin",
+	"password": "Admin123",
+	"location": "Inpatient ward",
+	"expected_logged_in_user_info": "Logged in as Super User (admin) at Inpatient Ward.",
+	"given_name": "Prasanth",
+	"middle_name": "A",
+	"family_name": "P",
+	"address1": "test_address1",
+	"address2": "test_address2",
+	"village_name": "test_village",
+	"state_name": "test_state",
+	"country_name": "test_country",
+	"postal_code": "280023",
+	"phone_number": "6798000000",
+	"relative_name": "James",
+	"patient_name": "Prasanth"
+}

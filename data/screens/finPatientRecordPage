@@ -1,0 +1,2 @@
+"FIND_PATIENT_SEARCH_FIELD": "//*[@id='patient-search']",
+"SEARCH_RESULT": "(//td[contains(text(),'Prasanth')])[1]",
